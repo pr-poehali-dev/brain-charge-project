@@ -19,7 +19,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Icon name="Zap" className="text-primary" size={28} />
-            <span className="text-2xl font-bold">LamboJarvis</span>
+            <span className="text-2xl font-bold">LamborJarvis</span>
           </div>
           <div className="hidden md:flex items-center gap-6">
             <button onClick={() => scrollToSection('home')} className="hover:text-primary transition-colors">Главная</button>
@@ -383,7 +383,7 @@ const Index = () => {
         <div className="container mx-auto">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6">О LamboJarvis</h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6">О LamborJarvis</h2>
               <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
                 Мы — команда нейробиологов, инженеров и технологических энтузиастов, объединённых общей миссией: сделать энергию доступной везде и всегда.
               </p>
@@ -549,7 +549,7 @@ const Index = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             <div className="flex items-center gap-2">
               <Icon name="Zap" className="text-primary" size={28} />
-              <span className="text-xl font-bold">LamboJarvis</span>
+              <span className="text-xl font-bold">LamborJarvis</span>
             </div>
             <div className="flex gap-6">
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
@@ -563,7 +563,7 @@ const Index = () => {
               </a>
             </div>
             <p className="text-muted-foreground text-sm">
-              © 2024 LamboJarvis. Все права защищены.
+              © 2024 LamborJarvis. Все права защищены.
             </p>
           </div>
         </div>
